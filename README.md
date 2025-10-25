@@ -4,8 +4,7 @@
 This repository contains a responsive landing page, destination pages, and a simple flight search demo.
 
 ## Demo
-Public demo: `https://your-username.github.io/website-wonderlust/`  
-(Replace with the real link once GitHub Pages is enabled)
+Public demo: 'https://famirtom.github.io/Wonderlust-frontend/'
 
 ## Features
 - Responsive landing page (desktop & mobile)
